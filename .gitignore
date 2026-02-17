@@ -1,0 +1,15 @@
+# Ignorar contenido de datos pesados
+data/raw/*
+data/processed/*
+
+# Pero NO ignores los archivos .gitkeep (para que las carpetas existan en GitHub)
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Ignorar archivos temporales de Python y entornos virtuales
+__pycache__/
+*.py[cod]
+venv/
+.env
+.DS_Store
+

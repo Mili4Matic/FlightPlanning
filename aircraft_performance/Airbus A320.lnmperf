@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
+  <AircraftPerf>
+    <Header>
+      <CreationDate>2025-06-23T12:51:53+02:00</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>3.0.17</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmperf.html</Documentation>
+    </Header>
+    <Options>
+      <Name>Airbus A320</Name>
+      <AircraftType>A320</AircraftType>
+      <Simulator></Simulator>
+      <Description></Description>
+      <FuelAsVolume>0</FuelAsVolume>
+      <JetFuel>1</JetFuel>
+    </Options>
+    <Perf>
+      <ContingencyFuelPercent>5.0</ContingencyFuelPercent>
+      <ExtraFuelLbsGal>0.000</ExtraFuelLbsGal>
+      <MinRunwayLengthFt>7500.000</MinRunwayLengthFt>
+      <ReserveFuelLbsGal>3000.000</ReserveFuelLbsGal>
+      <RunwayType>SOFT</RunwayType>
+      <TaxiFuelLbsGal>500.000</TaxiFuelLbsGal>
+      <UsableFuelLbsGal>41000.000</UsableFuelLbsGal>
+      <Alternate>
+        <FuelFlowLbsGalPerHour>4800.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>300.000</SpeedKtsTAS>
+      </Alternate>
+      <Climb>
+        <FuelFlowLbsGalPerHour>6000.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>290.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1800.000</VertSpeedFtPerMin>
+      </Climb>
+      <Cruise>
+        <FuelFlowLbsGalPerHour>5200.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>450.000</SpeedKtsTAS>
+      </Cruise>
+      <Descent>
+        <FuelFlowLbsGalPerHour>2000.000</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>280.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1800.000</VertSpeedFtPerMin>
+      </Descent>
+    </Perf>
+  </AircraftPerf>
+</LittleNavmap>

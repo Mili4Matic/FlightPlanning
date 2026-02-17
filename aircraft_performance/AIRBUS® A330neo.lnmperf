@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
+  <AircraftPerf>
+    <Header>
+      <CreationDate>2024-10-26T16:37:44+08:00</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>3.0.6</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmperf.html</Documentation>
+    </Header>
+    <Options>
+      <Name>AIRBUS® A330neo</Name>
+      <AircraftType>A339</AircraftType>
+      <Simulator>XP11</Simulator>
+      <Description>AIRBUS® A330neo (A339)
+Developer: ToLiSS
+This LNMPERF file is for XP11 only.
+
+FULL PAX
+CAVOK WEATHER
+FL350 CRZ ALTITUDE
+20,000kg of fuel
+RESERVE FUEL 2,300 (VALUE DURING KSEA-KLAX)
+TAXI 900kg fuel (DEFAULT MCDU VALUE)
+KSEA-KLAX (2+ hrs)
+CI 999
+No NADP (Noise Abatement Departure Procedure(s) applied)
+
+Disclaimer: ALTERNATE NOT INPUT BY AUTHOR
+
+If any of these are lower:
+
+Lower PAX: Higher fuel loading
+CI: Lower speed, less fuel
+Weather: CAVOK weather is best engine performance and lowest fuel consumption
+
+Final note: The A330-900neo can fly with full pax and fuel at 7,500nm.</Description>
+      <FuelAsVolume>0</FuelAsVolume>
+      <JetFuel>1</JetFuel>
+    </Options>
+    <Perf>
+      <ContingencyFuelPercent>5.0</ContingencyFuelPercent>
+      <ExtraFuelLbsGal>0.000</ExtraFuelLbsGal>
+      <MinRunwayLengthFt>9900.000</MinRunwayLengthFt>
+      <ReserveFuelLbsGal>5070.633</ReserveFuelLbsGal>
+      <RunwayType>HARD</RunwayType>
+      <TaxiFuelLbsGal>1984.161</TaxiFuelLbsGal>
+      <UsableFuelLbsGal>240713.969</UsableFuelLbsGal>
+      <Alternate>
+        <FuelFlowLbsGalPerHour>59.525</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>100.000</SpeedKtsTAS>
+      </Alternate>
+      <Climb>
+        <FuelFlowLbsGalPerHour>23077.994</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>378.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1741.000</VertSpeedFtPerMin>
+      </Climb>
+      <Cruise>
+        <FuelFlowLbsGalPerHour>12608.239</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>484.000</SpeedKtsTAS>
+      </Cruise>
+      <Descent>
+        <FuelFlowLbsGalPerHour>2605.865</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>319.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1309.000</VertSpeedFtPerMin>
+      </Descent>
+    </Perf>
+  </AircraftPerf>
+</LittleNavmap>

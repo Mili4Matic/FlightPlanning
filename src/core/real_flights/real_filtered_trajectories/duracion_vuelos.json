@@ -1,0 +1,317 @@
+{
+  "duracion_por_vuelo": [
+    {
+      "ID": 236573298,
+      "duracion": "0 days 04:30:00",
+      "duracion_horas": 4.5
+    },
+    {
+      "ID": 236590812,
+      "duracion": "0 days 04:12:00",
+      "duracion_horas": 4.2
+    },
+    {
+      "ID": 236601579,
+      "duracion": "0 days 04:41:00",
+      "duracion_horas": 4.683333333333334
+    },
+    {
+      "ID": 236618934,
+      "duracion": "0 days 04:56:00",
+      "duracion_horas": 4.933333333333334
+    },
+    {
+      "ID": 236629113,
+      "duracion": "0 days 05:22:00",
+      "duracion_horas": 5.366666666666666
+    },
+    {
+      "ID": 236645276,
+      "duracion": "0 days 05:13:00",
+      "duracion_horas": 5.216666666666667
+    },
+    {
+      "ID": 236655451,
+      "duracion": "0 days 05:30:00",
+      "duracion_horas": 5.5
+    },
+    {
+      "ID": 236672401,
+      "duracion": "0 days 04:36:00",
+      "duracion_horas": 4.6
+    },
+    {
+      "ID": 236682401,
+      "duracion": "0 days 04:26:00",
+      "duracion_horas": 4.433333333333334
+    },
+    {
+      "ID": 236699383,
+      "duracion": "0 days 04:36:00",
+      "duracion_horas": 4.6
+    },
+    {
+      "ID": 236709700,
+      "duracion": "0 days 04:46:00",
+      "duracion_horas": 4.766666666666667
+    },
+    {
+      "ID": 236727702,
+      "duracion": "0 days 04:14:00",
+      "duracion_horas": 4.233333333333333
+    },
+    {
+      "ID": 236736776,
+      "duracion": "0 days 04:43:00",
+      "duracion_horas": 4.716666666666667
+    },
+    {
+      "ID": 236749691,
+      "duracion": "0 days 04:28:00",
+      "duracion_horas": 4.466666666666667
+    },
+    {
+      "ID": 236783386,
+      "duracion": "0 days 04:54:00",
+      "duracion_horas": 4.9
+    },
+    {
+      "ID": 236800981,
+      "duracion": "0 days 03:55:00",
+      "duracion_horas": 3.9166666666666665
+    },
+    {
+      "ID": 236811692,
+      "duracion": "0 days 04:28:00",
+      "duracion_horas": 4.466666666666667
+    },
+    {
+      "ID": 236829150,
+      "duracion": "0 days 04:32:00",
+      "duracion_horas": 4.533333333333333
+    },
+    {
+      "ID": 236839096,
+      "duracion": "0 days 04:43:00",
+      "duracion_horas": 4.716666666666667
+    },
+    {
+      "ID": 236854851,
+      "duracion": "0 days 04:37:00",
+      "duracion_horas": 4.616666666666666
+    },
+    {
+      "ID": 236865204,
+      "duracion": "0 days 04:31:00",
+      "duracion_horas": 4.516666666666667
+    },
+    {
+      "ID": 236882123,
+      "duracion": "0 days 04:28:00",
+      "duracion_horas": 4.466666666666667
+    },
+    {
+      "ID": 236892516,
+      "duracion": "0 days 04:23:00",
+      "duracion_horas": 4.383333333333334
+    },
+    {
+      "ID": 236909944,
+      "duracion": "0 days 04:29:00",
+      "duracion_horas": 4.483333333333333
+    },
+    {
+      "ID": 236921376,
+      "duracion": "0 days 04:41:00",
+      "duracion_horas": 4.683333333333334
+    },
+    {
+      "ID": 236938876,
+      "duracion": "0 days 04:27:00",
+      "duracion_horas": 4.45
+    },
+    {
+      "ID": 236948691,
+      "duracion": "0 days 04:16:00",
+      "duracion_horas": 4.266666666666667
+    },
+    {
+      "ID": 236961429,
+      "duracion": "0 days 04:06:00",
+      "duracion_horas": 4.1
+    },
+    {
+      "ID": 236970386,
+      "duracion": "0 days 04:31:00",
+      "duracion_horas": 4.516666666666667
+    },
+    {
+      "ID": 236987423,
+      "duracion": "0 days 03:57:00",
+      "duracion_horas": 3.95
+    },
+    {
+      "ID": 236998709,
+      "duracion": "0 days 04:11:00",
+      "duracion_horas": 4.183333333333334
+    },
+    {
+      "ID": 237015593,
+      "duracion": "0 days 04:03:00",
+      "duracion_horas": 4.05
+    },
+    {
+      "ID": 237025688,
+      "duracion": "0 days 04:05:00",
+      "duracion_horas": 4.083333333333333
+    },
+    {
+      "ID": 237041876,
+      "duracion": "0 days 04:06:00",
+      "duracion_horas": 4.1
+    },
+    {
+      "ID": 237052291,
+      "duracion": "0 days 04:13:00",
+      "duracion_horas": 4.216666666666667
+    },
+    {
+      "ID": 237069735,
+      "duracion": "0 days 04:12:00",
+      "duracion_horas": 4.2
+    },
+    {
+      "ID": 237080984,
+      "duracion": "0 days 04:38:00",
+      "duracion_horas": 4.633333333333334
+    },
+    {
+      "ID": 237099446,
+      "duracion": "0 days 04:17:00",
+      "duracion_horas": 4.283333333333333
+    },
+    {
+      "ID": 237110183,
+      "duracion": "0 days 04:19:00",
+      "duracion_horas": 4.316666666666666
+    },
+    {
+      "ID": 237129361,
+      "duracion": "0 days 04:20:15",
+      "duracion_horas": 4.3375
+    },
+    {
+      "ID": 237139476,
+      "duracion": "0 days 04:31:00",
+      "duracion_horas": 4.516666666666667
+    },
+    {
+      "ID": 237155085,
+      "duracion": "0 days 04:20:00",
+      "duracion_horas": 4.333333333333333
+    },
+    {
+      "ID": 237163698,
+      "duracion": "0 days 04:47:00",
+      "duracion_horas": 4.783333333333333
+    },
+    {
+      "ID": 237181320,
+      "duracion": "0 days 04:19:00",
+      "duracion_horas": 4.316666666666666
+    },
+    {
+      "ID": 237191634,
+      "duracion": "0 days 04:28:00",
+      "duracion_horas": 4.466666666666667
+    },
+    {
+      "ID": 237208282,
+      "duracion": "0 days 04:31:00",
+      "duracion_horas": 4.516666666666667
+    },
+    {
+      "ID": 237217004,
+      "duracion": "0 days 04:22:00",
+      "duracion_horas": 4.366666666666666
+    },
+    {
+      "ID": 237227840,
+      "duracion": "0 days 04:20:00",
+      "duracion_horas": 4.333333333333333
+    },
+    {
+      "ID": 237233172,
+      "duracion": "0 days 04:37:00",
+      "duracion_horas": 4.616666666666666
+    },
+    {
+      "ID": 237242467,
+      "duracion": "0 days 04:30:00",
+      "duracion_horas": 4.5
+    },
+    {
+      "ID": 237250642,
+      "duracion": "0 days 04:22:00",
+      "duracion_horas": 4.366666666666666
+    },
+    {
+      "ID": 237266636,
+      "duracion": "0 days 04:26:00",
+      "duracion_horas": 4.433333333333334
+    },
+    {
+      "ID": 237276565,
+      "duracion": "0 days 04:55:00",
+      "duracion_horas": 4.916666666666667
+    },
+    {
+      "ID": 237293876,
+      "duracion": "0 days 04:48:00",
+      "duracion_horas": 4.8
+    },
+    {
+      "ID": 237303533,
+      "duracion": "0 days 04:54:00",
+      "duracion_horas": 4.9
+    },
+    {
+      "ID": 237318032,
+      "duracion": "0 days 05:00:00",
+      "duracion_horas": 5.0
+    },
+    {
+      "ID": 237326667,
+      "duracion": "0 days 05:13:00",
+      "duracion_horas": 5.216666666666667
+    },
+    {
+      "ID": 237343669,
+      "duracion": "0 days 04:48:00",
+      "duracion_horas": 4.8
+    },
+    {
+      "ID": 237353285,
+      "duracion": "0 days 05:09:00",
+      "duracion_horas": 5.15
+    },
+    {
+      "ID": 237369867,
+      "duracion": "0 days 04:20:00",
+      "duracion_horas": 4.333333333333333
+    },
+    {
+      "ID": 237378760,
+      "duracion": "0 days 04:16:00",
+      "duracion_horas": 4.266666666666667
+    }
+  ],
+  "estadisticas": {
+    "duracion_media": "0 days 04:31:59.262295081",
+    "duracion_media_horas": 4.533128415277778,
+    "duracion_maxima": "0 days 05:30:00",
+    "duracion_maxima_horas": 5.5,
+    "duracion_minima": "0 days 03:55:00",
+    "duracion_minima_horas": 3.9166666666666665
+  }
+}

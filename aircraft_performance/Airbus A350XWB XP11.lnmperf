@@ -1,0 +1,28 @@
+[Options]
+AircraftType=A359
+Description=
+FormatVersion=2.4.0
+FuelAsVolume=false
+JetFuel=false
+Metadata=Created by Little Navmap Version 2.6.1.beta (revision eb1ff50d) on 2020 10 07T23:12:22
+Name=Airbus A350XWB XP11
+ProgramVersion=2.6.1.beta
+
+[Perf]
+AlternateFuelFlow=14330
+AlternateSpeed=250
+ClimbFuelFlowLbsGalPerHour=24462.5
+ClimbSpeedKtsTAS=360
+ClimbVertSpeedFtPerMin=1069
+ContingencyFuelPercent=0
+CruiseFuelFlowLbsGalPerHour=12215.8
+CruiseSpeedKtsTAS=476
+DescentFuelFlowLbsGalPerHour=2407.45
+DescentSpeedKtsTAS=331
+DescentVertSpeedFtPerMin=877
+ExtraFuelLbsGal=0
+MinRunwayLength=0
+ReserveFuelLbsGal=4409.25
+RunwayType=SOFT
+TaxiFuelLbsGal=1512.37
+UsableFuel=48501.7

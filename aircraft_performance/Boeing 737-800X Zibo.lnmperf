@@ -1,0 +1,28 @@
+[Options]
+Metadata=Created by Little Navmap Version 2.4.4 (revision b96521a) on 2020 04 01T10:47:59
+ProgramVersion=2.4.4
+FormatVersion=2.4.0
+Name=Boeing 737-800X
+AircraftType=B738
+Description=
+FuelAsVolume=false
+JetFuel=true
+
+[Perf]
+UsableFuel=65402.3
+TaxiFuelLbsGal=330.693
+ReserveFuelLbsGal=2204.62
+ExtraFuelLbsGal=1102.31
+ContingencyFuelPercent=5
+ClimbVertSpeedFtPerMin=2212
+ClimbSpeedKtsTAS=348
+ClimbFuelFlowLbsGalPerHour=12083.5
+CruiseSpeedKtsTAS=425
+CruiseFuelFlowLbsGalPerHour=7290.69
+DescentSpeedKtsTAS=285
+DescentVertSpeedFtPerMin=1805
+DescentFuelFlowLbsGalPerHour=2610.27
+AlternateSpeed=350
+AlternateFuelFlow=11023.1
+MinRunwayLength=6791
+RunwayType=Hard

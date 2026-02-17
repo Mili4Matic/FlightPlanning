@@ -1,0 +1,40 @@
+Notas:
+	-Vuelo:
+		Madrid-Moscow
+		(LEMD - UUEE)
+		
+		-N de Vuelos encontrados:
+			LEMD-UUEE = 61
+			Total = 747469
+		
+		-Coordenadas aeropuertos
+		# Departure: LEMD (Madrid)
+		DEPARTURE_LAT = 40.4723
+		DEPARTURE_LON = -3.5609
+		# Arrival: UUEE (Moscu)
+		ARRIVAL_LAT  = 55.972778
+		ARRIVAL_LON  = 37.414722
+
+	-Bounding Box
+		# Top right – 56°19'59.3"N 38°03'31.3"E
+		# Top left  – 56°19'59.3"N  4°02'04.3"W
+		# Bot right – 40°06'42.7"N 38°03'31.3"E
+		# Bot left  – 40°06'42.7"N  4°02'04.3"W
+		MAX_LAT  = 56.333140
+		MIN_LAT  = 40.111860
+		MAX_LON  = 38.058696
+		MIN_LON  = -4.034539
+		
+	-Waypoints
+		N de waypoints (en la bounding box) = 27922
+		N de waypoints total = 206658
+		
+	-Airways 
+		N de airways (bounding box) = 12462
+		N de airways total = 86181
+
+
+	SIMULACON:
+		DEPARTURE: GUIADO DESDE PINAR(LABLE: 67318) + DEPARTURE PROCEDURE: 
+		DESTINATION: GUIADO HASTA SUSOR(LABLE: 41203) + APPROACH PROCEDURE: FF06L APPROACH ILS 06L, Transition SUSOR
+		

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LittleNavmap xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://www.littlenavmap.org/schema/lnmperf.xsd">
+  <AircraftPerf>
+    <Header>
+      <CreationDate>2023-11-15T14:23:23+02:00</CreationDate>
+      <FileVersion>1.0</FileVersion>
+      <ProgramName>Little Navmap</ProgramName>
+      <ProgramVersion>2.8.12</ProgramVersion>
+      <Documentation>https://www.littlenavmap.org/lnmperf.html</Documentation>
+    </Header>
+    <Options>
+      <Name>Airbus A330-300</Name>
+      <AircraftType>A333</AircraftType>
+      <Simulator>XP12</Simulator>
+      <Description></Description>
+      <FuelAsVolume>0</FuelAsVolume>
+      <JetFuel>0</JetFuel>
+    </Options>
+    <Perf>
+      <ContingencyFuelPercent>5.0</ContingencyFuelPercent>
+      <ExtraFuelLbsGal>0.000</ExtraFuelLbsGal>
+      <MinRunwayLengthFt>9090.000</MinRunwayLengthFt>
+      <ReserveFuelLbsGal>4409.246</ReserveFuelLbsGal>
+      <RunwayType>SOFT</RunwayType>
+      <TaxiFuelLbsGal>661.387</TaxiFuelLbsGal>
+      <UsableFuelLbsGal>240711.766</UsableFuelLbsGal>
+      <Alternate>
+        <FuelFlowLbsGalPerHour>14330.050</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>250.000</SpeedKtsTAS>
+      </Alternate>
+      <Climb>
+        <FuelFlowLbsGalPerHour>24440.451</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>290.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>2000.000</VertSpeedFtPerMin>
+      </Climb>
+      <Cruise>
+        <FuelFlowLbsGalPerHour>10516.052</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>475.000</SpeedKtsTAS>
+      </Cruise>
+      <Descent>
+        <FuelFlowLbsGalPerHour>2407.448</FuelFlowLbsGalPerHour>
+        <SpeedKtsTAS>290.000</SpeedKtsTAS>
+        <VertSpeedFtPerMin>1500.000</VertSpeedFtPerMin>
+      </Descent>
+    </Perf>
+  </AircraftPerf>
+</LittleNavmap>
