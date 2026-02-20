@@ -5,7 +5,7 @@ Concept: The Simulator
 The system utilizes Little Navmap as an "Evaluation Simulator." Python-based algorithms (Dijkstra, A*, K-SP) generate route proposals that are automatically sent to LNM to retrieve realistic fuel and time metrics based on aircraft performance profiles (.lnmperf).
 
 Installation (WSL/Ubuntu)
-Clone the repository: git clone https://github.com/your-username/FlightPlanning.git
+Clone the repository: git clone https://github.com/Mili4Matic/FlightPlanning.git
 
 Run the installer: bash setup_env.sh
 
