@@ -8,7 +8,7 @@ import pandas as pd
 "ECTRL ID","Sequence Number","Time Over","Flight Level","Latitude","Longitude"
 """
 
-filtered_file = '../../data/raw/201912/Flight_Points_Actual_20191201_20191231.csv'
+filtered_file = '../../../data/raw/201912/Flight_Points_Actual_20191201_20191231.csv'
 
 df = pd.read_csv(filtered_file)
 
