@@ -6,8 +6,8 @@ import os
 import ast
 
 # --- Configuration ---
-INPUT_GRAPH_FILE = './graphs/waypoints_graph_LEMD-UUEE.gml'
-OUTPUT_MAP_FILE = './graphs/graph_map_LEMD-UUEE.html'
+INPUT_GRAPH_FILE = '../../outputs/graphs/waypoints_graph_LEMD-UUEE.gml'
+OUTPUT_MAP_FILE = '../../outputs/graphs/graph_map_LEMD-UUEE.html'
 
 def destringizer(s):
     """Safely convert a string representation of a Python literal back to the literal."""

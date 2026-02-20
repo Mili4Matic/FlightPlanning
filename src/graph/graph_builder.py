@@ -13,11 +13,11 @@ RADIUS = 5
 MIN_CONNECTIONS = 25
 
 # Input files
-WAYPOINTS_INPUT_FILE = '../data/filtered/filtered_waypoints_LEMD-UUEE.csv'
-AIRWAYS_INPUT_FILE = '../data/filtered/filtered_airways_LEMD-UUEE.csv'
+WAYPOINTS_INPUT_FILE = '../../data/processed/filtered_waypoints_LEMD-UUEE.csv'
+AIRWAYS_INPUT_FILE = '../../data/processed/filtered_airways_LEMD-UUEE.csv'
 # Output files
-OUTPUT_GRAPH_FILE = '../graphs/waypoints_graph_LEMD-UUEE.gml'
-OUTPUT_PLOT_FILE = '../graphs/waypoints_graph_LEMD-UUEE.png'
+OUTPUT_GRAPH_FILE = '../../outputs/graphs/waypoints_graph_LEMD-UUEE.gml'
+OUTPUT_PLOT_FILE = '../../outputs/graphs/waypoints_graph_LEMD-UUEE.png'
 
 
 def load_data(file_path):
