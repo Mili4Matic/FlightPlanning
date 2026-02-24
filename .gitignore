@@ -2,6 +2,8 @@
 data/raw/*
 data/processed/*
 outputs/graphs/*.html
+outputs/trajectories/*.png
+
 # Pero NO ignores los archivos .gitkeep (para que las carpetas existan en GitHub)
 !data/raw/.gitkeep
 !data/processed/.gitkeep
