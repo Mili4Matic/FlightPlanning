@@ -1,7 +1,7 @@
 # Ignorar contenido de datos pesados
 data/raw/*
 data/processed/*
-outputs/garphs/.html
+outputs/garphs/*.html
 # Pero NO ignores los archivos .gitkeep (para que las carpetas existan en GitHub)
 !data/raw/.gitkeep
 !data/processed/.gitkeep
