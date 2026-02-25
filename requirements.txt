@@ -84,7 +84,7 @@ networkx==3.4.2
 numpy==2.2.6
 onnxruntime==1.22.0
 openap==2.2
-opensky-api @ file:///home/mili/Downloads/opensky-api-master/python
+# opensky-api @ file:///home/mili/Downloads/opensky-api-master/python
 opentelemetry-api==1.33.1
 packaging==25.0
 pandas==2.2.3
